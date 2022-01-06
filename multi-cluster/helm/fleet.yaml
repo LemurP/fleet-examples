@@ -1,3 +1,4 @@
+namespace: devnamespace
 targetCustomizations:
 - name: dev
   helm:
